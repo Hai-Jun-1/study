@@ -1,0 +1,13 @@
+public class Demo01 {
+    public static void main(String[] args) {
+        System.out.print("Hello World");
+		System.out.print("\n");
+		System.out.print("你好世界");
+
+		System.out.print("姓名：志玲");
+		System.out.print("\n");
+		System.out.print("年龄：38");
+		System.out.print("\n");
+		System.out.print("籍贯：台湾省");
+	}
+}
